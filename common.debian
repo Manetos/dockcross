@@ -19,8 +19,10 @@ RUN \
     bzip2 \
     ca-certificates \
     curl \
+    dirmngr \
     file \
     gettext \
+    gpg \
     gzip \
     zip \
     make \
